@@ -1,0 +1,33 @@
+{
+  "name": "topshop",
+  "version": "1.0.0",
+  "description": "bussiness center vendor app",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "njuoh lot timngum",
+  "license": "ISC",
+  "dependencies": {
+    "react-router-dom": "^6.8.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.18.6"
+  }
+}
